@@ -2,7 +2,9 @@
 
 **Dev** 
 - [example](link) (specialitée)
-- [Hysteryx](https://github.com/Hysteryx) (back) 
+- [NEOJIMM](https://github.com/NEOJIMM) 
+- [Hysteryx](https://github.com/Hysteryx)
+- [Ismaël](https://github.com/Sameedevv)
 
 
 ## Tech Stack
