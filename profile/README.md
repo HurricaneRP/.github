@@ -4,7 +4,7 @@
 - [example](link) (specialitée)
 - [NEOJIMM](https://github.com/NEOJIMM) 
 - [Hysteryx](https://github.com/Hysteryx)
-- [Ismaël](https://github.com/Sameedevv)
+- [Ismaël](https://github.com/ismaeldevv)
 
 
 ## Tech Stack
