@@ -1,11 +1,6 @@
 ## Authors
 
-**Dev** 
-- [example](link) (specialitée)
-- [NEOJIMM](https://github.com/NEOJIMM) 
-- [Hysteryx](https://github.com/Hysteryx)
-- [Ismaël](https://github.com/ismaeldevv)
-
+TODO : faire les crédits
 
 ## Tech Stack
 
